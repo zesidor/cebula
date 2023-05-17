@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cebula/static/css/main.6230acb2.css",
-    "main.js": "/cebula/static/js/main.3bb9ef45.js",
+    "main.js": "/cebula/static/js/main.3327f9e2.js",
     "static/js/787.485e3897.chunk.js": "/cebula/static/js/787.485e3897.chunk.js",
     "index.html": "/cebula/index.html",
     "main.6230acb2.css.map": "/cebula/static/css/main.6230acb2.css.map",
-    "main.3bb9ef45.js.map": "/cebula/static/js/main.3bb9ef45.js.map",
+    "main.3327f9e2.js.map": "/cebula/static/js/main.3327f9e2.js.map",
     "787.485e3897.chunk.js.map": "/cebula/static/js/787.485e3897.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6230acb2.css",
-    "static/js/main.3bb9ef45.js"
+    "static/js/main.3327f9e2.js"
   ]
 }
